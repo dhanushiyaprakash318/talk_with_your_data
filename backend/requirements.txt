@@ -1,4 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
+sqlalchemy
+pymysql
+python-multipart
 requests
-pydantic
